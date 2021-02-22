@@ -8,3 +8,7 @@
 
 ## Dark Theme
 ![Black Theme](img/full-screen2.PNG)
+
+- These are the Switch 
+
+![](img/Light_mode_switch.PNG) ![](img/Dark_mode_switch.PNG)
