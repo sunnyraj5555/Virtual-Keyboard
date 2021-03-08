@@ -12,3 +12,5 @@
 - These are the Switch 
 
 ![](img/Light_mode_switch.PNG) ![](img/Dark_mode_switch.PNG)
+
+- Basically it is a neomorphism Design
