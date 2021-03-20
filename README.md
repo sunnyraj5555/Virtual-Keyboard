@@ -14,3 +14,4 @@
 ![](img/Light_mode_switch.PNG) ![](img/Dark_mode_switch.PNG)
 
 - Basically it is a neomorphism Design
+- Now each and every Code I will try to explain
